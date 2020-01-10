@@ -1,0 +1,14 @@
+export const GET_BUGS = 'GET_BUGS';
+export const ADD_BUG = 'ADD_BUG';
+export const DELETE_BUG = 'DELETE_BUG';
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const UPDATE_BUG = 'UPDATE_BUGS';
+export const CLEAR_BUGS = 'CLEAR_BUGS';
+export const SET_LOADING = 'SET_LOADING';
+export const BUGS_ERROR = 'BUGS_ERROR';
+export const SEARCH_BUGS = 'SEARCH_BUGS';
+export const GET_DEVS = 'GET_DEVS';
+export const ADD_DEV = 'ADD_DEV';
+export const DELETE_DEV = 'DELETE_DEV';
+export const DEVS_ERROR = 'DEVS_ERROR';

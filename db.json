@@ -1,0 +1,52 @@
+{
+  "bugs": [
+    {
+      "message": "Missing user input validation",
+      "fixed": false,
+      "dev": "Harry Le",
+      "date": "2020-01-09T10:58:52.212Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Navbar is not responsive on tablet size",
+      "fixed": false,
+      "dev": "Harry Le",
+      "date": "2020-01-09T11:58:40.214Z"
+    },
+    {
+      "id": 3,
+      "message": "Add README.md",
+      "fixed": true,
+      "dev": "Parvati Lacina",
+      "date": "2020-01-09T11:56:26.203Z"
+    }
+  ],
+  "devs": [
+    {
+      "id": 1,
+      "firstName": "Harry",
+      "lastName": "Le"
+    },
+    {
+      "id": 2,
+      "firstName": "Alexander",
+      "lastName": "White"
+    },
+    {
+      "id": 3,
+      "firstName": "Taylor",
+      "lastName": "Dunn"
+    },
+    {
+      "id": 4,
+      "firstName": "Parvati",
+      "lastName": "Lacina"
+    },
+    {
+      "firstName": "Yul",
+      "lastName": "Calafiore",
+      "id": 5
+    }
+  ]
+}
